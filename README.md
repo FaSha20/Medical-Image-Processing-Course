@@ -18,35 +18,35 @@ Each project is contained in its own folder with a detailed `README.md` and Jupy
 ### 2. 🧠 Brain Tumor Detection with CNN
 - **Goal:** Detect and classify brain tumors from MRI scans using Convolutional Neural Networks (CNNs).
 - **Framework:** PyTorch.
-- 📄 [`View Project`](./Brain_Tumor_Detection)
+- 📄 [`View Project`](./IABI_HW2)
 
 ---
 
 ### 3. 🧭 VoxelMorph – Medical Image Registration
 - **Goal:** Align medical images into a common coordinate system using learned deformation fields.
 - **Techniques:** CNN-based spatial transformation, unsupervised registration.
-- 📄 [`View Project`](./VoxelMorph)
+- 📄 [`View Project`](./IABI_HW3)
 
 ---
 
 ### 4. 🧩 Multiple Instance Learning with Graph Neural Networks
 - **Goal:** Classify image bags (MNIST Bags dataset) using Graph Neural Networks.
 - **Structure:** Treats each bag as a graph with instances as nodes.
-- 📄 [`View Project`](./MIL_GNN)
+- 📄 [`View Project`](./IABI_HW4)
 
 ---
 
 ### 5. 🫁 U-Net for Lung Segmentation from Chest X-rays
 - **Goal:** Segment lung regions in chest X-ray images.
 - **Model:** U-Net architecture implemented from scratch.
-- 📄 [`View Project`](./Lung_Segmentation_UNet)
+- 📄 [`View Project`](./IABI_HW5)
 
 ---
 
 ### 6. 🔎 Vision Transformer (ViT) for Brain Tumor Classification
 - **Goal:** Classify brain MRI images into four categories and visualize attention maps.
 - **Model:** Vision Transformer (ViT).
-- 📄 [`View Project`](./ViT_Brain_Tumor_Classification)
+- 📄 [`View Project`](./IABI_HW6)
 
 ---
 
@@ -60,7 +60,7 @@ Each project is contained in its own folder with a detailed `README.md` and Jupy
 
 ## 📚 Course Info
 
-These projects were developed as part of the **Medical Image Processing** course at [Your University], focusing on hands-on implementation of state-of-the-art methods in the field.
+These projects were developed as part of the [**Medical Image Processing**](https://www.youtube.com/watch?v=SGi0umWvR8A&list=PLFr7f4WLNwrbeL_D_60ZsW_iCfMH5VnKW) course at Sharif University of Technology, focusing on hands-on implementation of state-of-the-art methods in the field.
 
 Feel free to explore, fork, or contribute!
 
@@ -68,5 +68,5 @@ Feel free to explore, fork, or contribute!
 
 ## 📩 Contact
 
-For any inquiries, feel free to reach out via [Your Email] or connect on [LinkedIn/GitHub].
+For any inquiries, feel free to reach out via [f.shahhosseini.20@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/fatemeh-shahhosseini/).
 
