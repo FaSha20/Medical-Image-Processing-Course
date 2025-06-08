@@ -74,6 +74,10 @@ The dataset consists of chest X-ray images and corresponding binary lung masks. 
 - **Test set evaluation** reports final loss, Dice, and Jaccard scores.
 - **Qualitative results**: Visualizations show original images, ground truth masks, predicted masks, and blended overlays (red: prediction, green: ground truth, yellow: intersection).
 
+- ![image](https://github.com/user-attachments/assets/229a40de-cf62-415a-b82d-fe683d6d16bc)
+
+
+
 ## Requirements
 
 - Python 3.7+
