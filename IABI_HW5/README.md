@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter notebook, [Segmentation_UNET.ipynb](Segmentation_UNET.ipynb), that implements the U-Net architecture for medical image segmentation, specifically for lung mask extraction from chest X-ray images. The notebook guides you through data preparation, model building, training, evaluation, and visualization.
 
+- ![image](https://github.com/user-attachments/assets/229a40de-cf62-415a-b82d-fe683d6d16bc)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -73,9 +75,6 @@ The dataset consists of chest X-ray images and corresponding binary lung masks. 
 - **Best model checkpoint** is saved as `best_unet_model.pth`.
 - **Test set evaluation** reports final loss, Dice, and Jaccard scores.
 - **Qualitative results**: Visualizations show original images, ground truth masks, predicted masks, and blended overlays (red: prediction, green: ground truth, yellow: intersection).
-
-- ![image](https://github.com/user-attachments/assets/229a40de-cf62-415a-b82d-fe683d6d16bc)
-
 
 
 ## Requirements
