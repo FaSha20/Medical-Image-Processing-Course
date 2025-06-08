@@ -1,10 +1,5 @@
 # Multiple Instance Learning with Graph Neural Networks
 
-### IABI Course – Dr. Rohban  
-**Homework 1**  
-**Student:** Fatemeh Shahhosseini  
-**SID:** 403206519
-
 ## 📘 Project Overview
 
 This project explores **Multiple Instance Learning (MIL)** using **Graph Neural Networks (GNNs)** to classify bags of instances. Each bag is treated as a graph where:
@@ -53,10 +48,3 @@ The notebook evaluates the performance of the GNN-based MIL model using accuracy
    ```bash
    jupyter notebook IABI_Prac_hw4_MIL_Fatemeh_Shahhosseini_403206519.ipynb
    ```
-
----
-
-## 📂 File Structure
-
-- `IABI_Prac_hw4_MIL_Fatemeh_Shahhosseini_403206519.ipynb`: Main notebook with implementation.
-- `README.md`: This documentation.
