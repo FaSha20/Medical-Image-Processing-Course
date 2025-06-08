@@ -11,7 +11,7 @@ Each project is contained in its own folder with a detailed `README.md` and Jupy
 ### 1. 🔬 Retinal Blood Vessels Segmentation
 - **Goal:** Classify each pixel in retinal images (from the DRIVE dataset) as **vessel** or **background**.
 - **Techniques:** Classical image processing, handcrafted features, and a simple neural network.
-- 📄 [`View Project`](./Retinal_Blood_Vessels_Segmentation)
+- 📄 [`View Project`](./IABI_HW1)
 
 ---
 
