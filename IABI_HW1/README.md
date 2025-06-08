@@ -4,6 +4,8 @@
 
 This notebook implements a **retinal blood vessel segmentation** pipeline using classical image processing and a simple neural network classifier. The goal is to classify each pixel in retinal images from the DRIVE dataset as either vessel or background, based on a rich set of handcrafted features.
 
+![image](https://github.com/user-attachments/assets/9dc45086-58d7-4155-a80c-3f7967727d4a)
+
 ---
 
 ## Table of Contents
@@ -92,15 +94,6 @@ For each pixel (within the mask), a **20-dimensional feature vector** is compute
 ## Results
 
 - The model achieves at least **70% sensitivity**, **90% specificity**, and **90% accuracy** on the test set (as required).
-- Example output (for two test images):
-
-| Original Image | Ground Truth | Model Output |
-|:--------------:|:------------:|:------------:|
-| ![Sample1](sample1.png) | ![GT1](gt1.png) | ![Pred1](pred1.png) |
-| ![Sample2](sample2.png) | ![GT2](gt2.png) | ![Pred2](pred2.png) |
-
-> *(Replace the above image links with your actual saved images if you want to display results in your repository.)*
-
 ---
 
 ## Requirements
