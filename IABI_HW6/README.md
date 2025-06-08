@@ -2,7 +2,8 @@
 
 This repository contains the Jupyter notebook [ViT_Classification+Visualization.ipynb](ViT_Classification+Visualization.ipynb), which demonstrates the use of Vision Transformers (ViT) for classifying brain MRI images into four categories. The notebook also includes visualization of the model's attention maps to provide interpretability for its predictions.
 
----
+![image](https://github.com/user-attachments/assets/9d1f54fb-5981-4b9b-afa9-a6ce5f41883f)
+
 
 ## Table of Contents
 
@@ -89,6 +90,7 @@ Each subfolder corresponds to a class label.
 - **Test set evaluation** reports final accuracy.
 - **Confusion matrix** visualizes class-wise performance.
 - **Attention maps** show which image regions the ViT model focuses on for its predictions.
+![image](https://github.com/user-attachments/assets/ab11d90d-b662-40b6-a52d-da11e0e2bdbd)
 
 ---
 
