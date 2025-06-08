@@ -1,4 +1,4 @@
-# VoxelMorph Homework 4 README
+# VoxelMorph
 
 ## Overview
 This Jupyter Notebook implements the **VoxelMorph** framework, a deep learning approach for unsupervised image registration, as described in the paper [VoxelMorph: A Learning Framework for Deformable Medical Image Registration](https://arxiv.org/pdf/1809.05231). 
